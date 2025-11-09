@@ -14,6 +14,7 @@ It visualizes key metrics such as **revenue, profit, product performance, and re
 - [Dashboard Features](#dashboard-features)
 - [Key Insights](#key-insights)
 - [Tools Used](#tools-used)
+- [VBA Code](#vba-code)
 - [Overall Performance Summary](#overall-performance-summary)
 - [Conclusion](#conclusion)
 
@@ -198,7 +199,15 @@ The project followed a **structured workflow** combining data cleaning, modeling
 | **Pivot Tables & Charts** | Data aggregation and trend visualization |
 | **Slicers** | Dynamic filtering |
 
+---
+
+## VBA Code
+
 <img width="564" height="447" alt="Pivot Table Automated" src="https://github.com/user-attachments/assets/129b67db-7a4c-42e6-a84e-b9f8aed6f38d" />
+
+<img width="542" height="495" alt="Export Report VBA" src="https://github.com/user-attachments/assets/aad57266-600b-45cf-8747-2c028608a990" />
+
+<img width="564" height="445" alt="Reset VBA" src="https://github.com/user-attachments/assets/44309e0f-d905-4738-8834-5b464d99c218" />
 
 
 ---
